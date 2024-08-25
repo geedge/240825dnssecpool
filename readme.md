@@ -3,7 +3,7 @@
 所有活跃的Do53入口（四十多万个）
 ### 输出
 支持DNSSEC验证的部分
-总共分几步：
+### 步骤：
 1.首先在自己权威服务器配置资源记录
     dnssec-true.ncache.site     A   1.2.3.4
     dnssec-false.ncache.site    A   1.2.3.4
